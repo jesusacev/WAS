@@ -33,7 +33,7 @@ Instalación de WAS (Websphere Application Server) 8.0
 	[ibm@was eclipse]$ ./IBMIM
 
 
-- Lo primero que nos mostrará la ventana de instalación::
+- Lo primero que nos mostrará es la ventana de instalación::
 
 
 .. image:: ../imagenes/was/036.png
@@ -45,7 +45,7 @@ Instalación de WAS (Websphere Application Server) 8.0
 .. image:: ../imagenes/was/037.png
 
 
-- Le damos a añadir repositorios:
+- Le damos a añadir repositorio...:
 
 
 .. image:: ../imagenes/was/038.png
@@ -99,7 +99,7 @@ Instalación de WAS (Websphere Application Server) 8.0
 .. image:: ../imagenes/was/046.png
 
 
-- Seleccionamos el la traducción de español por motivos de lengua nativa:
+- Seleccionamos la traducción de español por motivos de lengua nativa:
 
 
 .. image:: ../imagenes/was/047.png
@@ -174,7 +174,7 @@ Instalación de WAS (Websphere Application Server) 8.0
 .. image:: ../imagenes/was/059.png
 
 
-- Nos mostrará los datos de los certificados y la CA emitidos y el tiempo de caducidad:
+- Nos mostrará los datos de los certificados y la CA emitidos, así como el tiempo de caducidad:
 
 
 .. image:: ../imagenes/was/060.png
