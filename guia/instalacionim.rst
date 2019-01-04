@@ -82,7 +82,7 @@ Instalación de IBM Instalation Manager
 - Con el comando ldd podemos ver las librerias dependientes de la otra librería que nos hace referencia el error::
 
 	[ibm@was IM]$ ldd /opt/IBM/IM/configuration/org.eclipse.osgi/bundles/394/1/.cp/libswt-pi-gtk-4239.so
-ldd: atención: no tiene permiso de ejecitación para `/opt/IBM/IM/configuration/org.eclipse.osgi/bundles/394/1/.cp/libswt-pi-gtk-4239.so'
+	ldd: atención: no tiene permiso de ejecitación para `/opt/IBM/IM/configuration/org.eclipse.osgi/bundles/394/1/.cp/libswt-pi-gtk-4239.so'
 	linux-vdso.so.1 =>  (0x00007ffe429d0000)
 	libgtk-x11-2.0.so.0 => not found
 	libgthread-2.0.so.0 => /lib64/libgthread-2.0.so.0 (0x00007fbd33f33000)
@@ -113,7 +113,7 @@ ldd: atención: no tiene permiso de ejecitación para `/opt/IBM/IM/configuration
 
 
 	[ibm@was IM]$ ldd /opt/IBM/IM/configuration/org.eclipse.osgi/bundles/394/1/.cp/libswt-pi-gtk-4239.so
-ldd: atención: no tiene permiso de ejecitación para `/opt/IBM/IM/configuration/org.eclipse.osgi/bundles/394/1/.cp/libswt-pi-gtk-4239.so'
+	ldd: atención: no tiene permiso de ejecitación para `/opt/IBM/IM/configuration/org.eclipse.osgi/bundles/394/1/.cp/libswt-pi-gtk-4239.so'
 	linux-vdso.so.1 =>  (0x00007ffc185d2000)
 	libgtk-x11-2.0.so.0 => /lib64/libgtk-x11-2.0.so.0 (0x00007f96dfbf9000)
 	libgthread-2.0.so.0 => /lib64/libgthread-2.0.so.0 (0x00007f96df9f7000)
