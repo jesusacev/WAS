@@ -208,15 +208,4 @@ Instalación de IBM Instalation Manager
 
 - Este producto nos servirá para instalar paquetes IBM como WAS.
 
-	jacevedo@scm04:~/Documentos/KB/acsele$ git branch -a
-	  FE-CONSIS
-	* HE-CONSIS
-	  RE-CONSIS
-	  master
-	  remotes/origin/FE-CONSIS
-	  remotes/origin/HE-CONSIS
-	  remotes/origin/RE-CONSIS
-	  remotes/origin/master
-
-
 
