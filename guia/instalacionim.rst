@@ -103,10 +103,11 @@ Instalación de IBM Instalation Manager
 - En este caso nos dice que para que funcione la libreria libswt-pi-gtk-4239.so le falta la librería libgtk-x11-2.0.so.0.
 
 
-- Instalamos el paquete gtk2::
+- Instalamos el paquete gtk2 y la libreria libxtst::
 
 
 	[ibm@was IM]$ yum install gtk2.x86_64
+	[ibm@was IM]$ sudo yum install libXtst.x86_64
 
 
 - Y al hacer el ldd ya nos muestra la librería faltante mas otras que no visualizabamos::
