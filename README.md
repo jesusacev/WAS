@@ -5,3 +5,4 @@
 * [Instalar WAS 8.0](guia/instalacionwas.rst)
 * [Como deshabilitar la seguridad en la consola administrativa](guia/seguridad.rst)
 * [Instalar FIX en WAS 8.0](guia/fixwas.rst)
+* [Crear Datasource en WAS 8.0](guia/datasource.rst)
