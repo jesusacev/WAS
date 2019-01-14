@@ -1,10 +1,10 @@
 Deshabilitar seguridad en consola administrativa de WAS
 ++++++++++++
 
-- El archivo que se modifica cuando vamos a deshabilitar o habilitar la seguridad en la consola administrativa es el security.xml, que en nuestro caso está ubicado en la ruta /opt/IBM/was/WebSphere/AppServer/profiles/Venezuela/config/cells/wasNode01Cell. Por seguridad debemos respaldarlo antes de realizar alguna modificación. En casod e no respaldar, sólo cambiará enabled="false" o enabled="true" dentro de la pestaña de seguridad del archivo, dependiendo de cual sea el caso.
+- El archivo que se modifica cuando vamos a deshabilitar o habilitar la seguridad en la consola administrativa es el security.xml, que en nuestro caso está ubicado en la ruta /opt/IBM/was/WebSphere/AppServer/profiles/Venezuela/config/cells/wasNode01Cell. Por seguridad debemos respaldarlo antes de realizar alguna modificación. En caso de no respaldar, sólo cambiará enabled="false" o enabled="true" dentro de la pestaña de seguridad del archivo, dependiendo de cual sea el caso.
 
 
-- Luego nos vamos a la ruta de los binarios del perfil para ejecutar la consola de administrativa a traves de comandos::
+- Luego nos vamos a la ruta de los binarios del perfil para ejecutar la consola administrativa a traves de comandos::
 
 	[ibm@was bin]$ pwd
 	/opt/IBM/was/WebSphere/AppServer/profiles/Venezuela/bin
