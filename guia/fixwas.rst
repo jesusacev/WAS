@@ -43,7 +43,7 @@ Intalar FIX en WAS (Websphere Application Server) 8.0
 .. image:: ../imagenes/fix/039.png
 
 
-- Luego en la ventana principal le damos a Update y nos pide credenciales para conectarse al repositorio por defecto de ibm, pero como ya tenemos el fin descargado le damos a cancelar:
+- Luego en la ventana principal le damos a Update y nos pide credenciales para conectarse al repositorio por defecto de ibm, pero como ya tenemos el fix descargado le damos a cancelar:
 
 
 .. image:: ../imagenes/fix/036.png
@@ -70,7 +70,7 @@ Intalar FIX en WAS (Websphere Application Server) 8.0
 .. image:: ../imagenes/fix/043.png
 
 
-- Nos muestra el resumen de la instalación y de estar todo le damos al botón Update:
+- Nos muestra el resumen de la instalación y de estar todo bien le damos al botón Update:
 
 
 .. image:: ../imagenes/fix/044.png
@@ -82,7 +82,7 @@ Intalar FIX en WAS (Websphere Application Server) 8.0
 .. image:: ../imagenes/fix/045.png
 
 
-- Luego la instalación nos debe indicar que el paquete fue actualizado:
+- Luego de la instalación, nos debe indicar que el paquete fue actualizado:
 
 
 .. image:: ../imagenes/fix/046.png
