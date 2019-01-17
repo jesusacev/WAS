@@ -126,7 +126,7 @@ Instalación de WAS (Websphere Application Server) 8.0
 .. image:: ../imagenes/was/051.png
 
 
-- Seguidamente nos abre el toolbox para crear el perfil:
+- Seguidamente nos abre el toolbox para crear el perfil (En caso que despues de la instalación se requiera crear otro perfil, se debe iniciar en una ruta similar a esta, ya que dependerá del directorio de instalación: /opt/IBM/WebSphere/AppServer/bin/ProfileManagement/eclipse64/pmt.sh):
 
 
 .. image:: ../imagenes/was/052.png
