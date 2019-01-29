@@ -26,7 +26,7 @@ Instalación de IBM Instalation Manager
 
 	[ibm@was ~]$ cd /opt/
 	[ibm@was opt]$ sudo mkdir IBM
-	[ibm@was opt]$ mkdir IBM/IM
+	[ibm@was opt]$ sudo mkdir IBM/IM
 
 
 - Creamos de una vez una carpeta de Instaladores para separar los paquetes que vayan a ser instalados::
@@ -106,7 +106,7 @@ Instalación de IBM Instalation Manager
 - Instalamos el paquete gtk2 y la libreria libxtst::
 
 
-	[ibm@was IM]$ yum install gtk2.x86_64
+	[ibm@was IM]$ sudo yum install gtk2.x86_64
 	[ibm@was IM]$ sudo yum install libXtst.x86_64
 
 
