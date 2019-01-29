@@ -103,7 +103,7 @@ Crear Datasource en WAS (Websphere Application Server) 8.0
 .. image:: ../imagenes/datasource/069.png
 
 
-- Hacemos un Test conection para certificar la conexión hacia la Base de datos:
+- Nos muestra un resumen de la creación del datasource y le damos a finalizar:
 
 
 .. image:: ../imagenes/datasource/070.png
@@ -115,7 +115,7 @@ Crear Datasource en WAS (Websphere Application Server) 8.0
 .. image:: ../imagenes/datasource/071.png
 
 
-- Nos muestra un mensaje que el datasource fue creado satisfactoriamente:
+- Por último realizamos un test connection para certificar la conexión hacia la base de datos:
 
 
 .. image:: ../imagenes/datasource/072.png 
